@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+body {
+    text-align: center;
+}
+
+.contenedor-1 {
+    background-color: antiquewhite;
+    padding: 200px;
+    clip-path: polygon(0 21%, 100% 0, 100% 71%, 0 93%);
+}
+
+.nombre-principal {
+    border: 50px;
+    margin: 0px 0px 50px 0px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+
+.parrafo-principal {
+    font-family: 'Oswald', sans-serif;
+}
+
+.contenedor-2 {
+    margin: 0px 0px 150px 0px;
+}
+
+.Parte-2 {
+    font-family: 'Anton', sans-serif;
+    border: 40px;
+    margin: 30px;
+    padding: 50px 0px 0px 0px;
+}
+
+.parrafo-2 {
+    font-family: 'Oswald', sans-serif;
+    padding: 10px 300px;
+    border: 20px;
+    margin: 10px 0px 50px 0px;
+}
+
+.contenedor-3 {
+    margin: 0px 0px 200px 0px;
+    border: 30px;
+}
+
+.parafo-3 {
+    font-family: 'Oswald', sans-serif;
+    padding: 40px;
+    margin: 20px;
+    border: 80px;
+    height: 50px;
+}
+
+.modelado1 {
+    width: 300px;
+}
+
+.modelado2 {
+    width: 300px;
+}
+
+.modelado3 {
+    width: 300px;
+}
+
+.redes-sociales {
+    font-family: 'Oswald', sans-serif;
+    background-color: firebrick;
+    color: aliceblue;
+    padding: 30px 50px;
+    margin: auto 300px;
+    border-radius: 39px;
+}
+
+.contenedor-redes {
+    background-color: antiquewhite;
+    padding: 70px 0px 20px 0px;
+}
+
+.facebook {
+    width: 50px;
+}
+
+.instagram {
+    width: 50px;
+}
+
+.behance {
+    width: 50px;
+}
+
+.reflexion {
+    font-family: 'Oswald', sans-serif;
+}
